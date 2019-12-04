@@ -1,3 +1,11 @@
+![图片1](https://github.com/yrjwcharm/RNSalesSystem/blob/master/screen/1.jpg)
+![图片2](https://github.com/yrjwcharm/RNSalesSystem/blob/master/screen/2.jpg)
+![图片3](https://github.com/yrjwcharm/RNSalesSystem/blob/master/screen/3.jpg)
+![图片4](https://github.com/yrjwcharm/RNSalesSystem/blob/master/screen/4.jpg)
+![图片5](https://github.com/yrjwcharm/RNSalesSystem/blob/master/screen/5.jpg)
+![图片6](https://github.com/yrjwcharm/RNSalesSystem/blob/master/screen/6.jpg)
+![图片7](https://github.com/yrjwcharm/RNSalesSystem/blob/master/screen/7.jpg)
+![图片8](https://github.com/yrjwcharm/RNSalesSystem/blob/master/screen/8.jpg)
 ####Android
 ┌────────────┬──────────────────────────────────────────────────────────────────┐
 │ Name       │ Deployment Key                                                   │
