@@ -1,4 +1,4 @@
-![图片1](https://github.com/yrjwcharm/RNSalesSystem/blob/master/screen/2.jpg)
+![pic](https://github.com/yrjwcharm/RNSalesSystem/blob/master/screen/2.jpg)
 ####Android
 ┌────────────┬──────────────────────────────────────────────────────────────────┐
 │ Name       │ Deployment Key                                                   │
