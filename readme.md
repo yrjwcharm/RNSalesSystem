@@ -4,6 +4,7 @@
 ![pic](https://github.com/yrjwcharm/RNSalesSystem/blob/master/screen/5.jpg)
 ![pic](https://github.com/yrjwcharm/RNSalesSystem/blob/master/screen/6.jpg)
 ![pic](https://github.com/yrjwcharm/RNSalesSystem/blob/master/screen/7.jpg)
+![pic](https://github.com/yrjwcharm/RNSalesSystem/blob/master/screen/8.jpg)
 ####Android
 ┌────────────┬──────────────────────────────────────────────────────────────────┐
 │ Name       │ Deployment Key                                                   │
